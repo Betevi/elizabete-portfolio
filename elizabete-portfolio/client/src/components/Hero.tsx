@@ -24,7 +24,7 @@ export default function Hero() {
               Olá, sou <span className="text-primary">Elizabete</span>
             </h1>
             <p className="text-base sm:text-lg md:text-xl text-muted-foreground max-w-2xl font-light">
-              Desenvolvedora full-stack apaixonada por criar experiências web incríveis, 
+              Desenvolvedora apaixonada por criar experiências web incríveis, 
               com foco em design moderno e código limpo.
             </p>
           </div>
